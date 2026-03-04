@@ -6,6 +6,7 @@ Click-a-Dot is a small Java Swing reflex game where you click moving targets bef
 
 Prerequisites:
 - Java 17+
+- Internet access on first run (Gradle may download its wrapper and dependencies)
 
 Commands:
 - `./gradlew run` to launch the game
